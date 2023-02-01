@@ -1,0 +1,7 @@
+.stopper {
+  font-size: 3em;
+  text-align: center;
+  @media all and (max-width: 768px) {
+    font-size: 2em;
+  }
+}
